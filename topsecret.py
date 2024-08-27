@@ -1,1 +1,1 @@
-SECRET_KEY = """ 'ehax{esestieye}' author = 'TaZER was here' """
+SECRET_KEY = """ 'ehax{redacted}' author = 'TaZER was here' """
