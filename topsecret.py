@@ -1,0 +1,1 @@
+SECRET_KEY = """ 'ehax{esestieye}' author = 'TaZER was here' """
