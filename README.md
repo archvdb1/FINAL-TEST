@@ -1,7 +1,7 @@
 # Sasti
 can you run the flag?<br>
 http://20.204.100.202:1337/
-author: deva#0853
+author: [REDACTED]
 
 ## Flag
 ```
